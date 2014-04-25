@@ -5,6 +5,8 @@ Network Security for Plastic Surgeons
 
 Please feel free to use this information to learn about Network Security at a high level.
 
+For the "binary" files, like PowerPoint presentations, click on the filename, and then click the "Raw" button to download the file to your computer.
+
 Needless to say (but I will say it anyway), this information is not comprehensive, and is intended to point you to the areas I think you should be most concerned about.  However, there are other security issues I have not addressed.
 
 Also, this information is technical.  You can use it to understand the issues and work with your IT Professional to implement some of these practices.  I doubt that any of this is beyond your intellectual capability, but just as a surgeon has to study a procedure for some time before they can safely perform it, you will probably need to spend some time learning this if you want to do it yourself.
